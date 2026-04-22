@@ -14,4 +14,4 @@ Projeto de site para uma mecânica automotiva.
 - Bootstrap
 
 ## Acesse o site
-https://paolalorraynesp.github.io/sitemecanica/
+https://paolalorraynesp.github.io/wiautomecanica/

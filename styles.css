@@ -170,7 +170,7 @@ html, body {
 
 
 /*FOOTER*/
-#div_footer p{
+.div_footer p{
   color: aliceblue; 
   text-align: center; 
   opacity: 35%;
